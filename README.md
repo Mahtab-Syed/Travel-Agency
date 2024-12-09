@@ -1,1 +1,1 @@
-# Travel-Agency
+"I have designed a modern, responsive landing page for a travel agency website, tailored to captivate visitors and showcase the agency's services. The layout is visually engaging, with clear calls to action, vibrant imagery, and sections highlighting destinations, travel packages, and customer testimonials. The design ensures seamless functionality across all devices, providing an intuitive user experience that inspires exploration and booking. This project reflects a keen focus on aesthetics, usability, and responsiveness."
